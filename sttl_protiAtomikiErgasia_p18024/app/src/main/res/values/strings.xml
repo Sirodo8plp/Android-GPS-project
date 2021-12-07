@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">sttl_protiAtomikiErgasia_p18024</string>
+    <string name="welcome_message">Welcome.Press "Start" button
+        to begin tracking your activity.</string>
+    <string name="start_activity_button">Sign In &#xD; or &#xD; Create User</string>
+    <string name="usernameText">Username</string>
+    <string name="my_name_is">My name is</string>
+    <string name="name">Username</string>
+    <string name="what_s_your_username">What\'s your username?</string>
+    <string name="title_activity_track_route">TrackRouteActivity</string>
+    <string name="view_routes">View Routes</string>
+    <string name="string_view_routes">View Routes</string>
+    <string name="startTracking">Track Route</string>
+    <string name="title_activity_show_all_routes">ShowAllRoutes</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721377691317",
+    "project_id": "protiatomikiergasiaandroid",
+    "storage_bucket": "protiatomikiergasiaandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721377691317:android:406f0acd3a5a34028220fc",
+        "android_client_info": {
+          "package_name": "com.example.sttl_protiatomikiergasia_p18024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721377691317-k7uf2quqjp707roknkacr4je0v8oh5i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKbvK3qxb9VCt5BqVIBeuw3eQa-b4NlgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721377691317-k7uf2quqjp707roknkacr4je0v8oh5i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
